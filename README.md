@@ -1,1 +1,7 @@
-I am Brayden, a senior in high school who is aspiring to work in the IT Industry. I have real-world experience at a non-profit doing helpdesk, desktop support, and systems administration work. I also possess a CompTIA Network+ certification. I am currently enrolled in Code2Colleges Elite 101 program, and within this program, I am eager to build a program called StudyBuddy, a budget and allowance tracker.
+### Hi, I'm Brayden 👋
+
+**Microsoft Certified Excel Associate | Code2College Elite 101**
+
+I am an **IT Intern at Workforce Alliance**, currently retained for **special projects** to support infrastructure and system administration.
+
+In addition to my hardware background, I specialize in **Data Integrity** and **Automation**, leveraging my Excel certification to build robust data solutions.
