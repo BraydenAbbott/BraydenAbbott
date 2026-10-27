@@ -1,7 +1,11 @@
-### Hi, I'm Brayden 👋
+Hi, I’m Brayden 👋
 
-**Microsoft Certified Excel Associate | Code2College Elite 101**
+CompTIA Network+ Certified | IT Intern at Workforce Alliance | Code2College Student
 
-I am an **IT Intern at Workforce Alliance**, currently retained for **special projects** to support infrastructure and system administration.
+I’m an Information Technology student with hands-on experience in technical support, networking, system administration, and IT infrastructure.
 
-In addition to my hardware background, I specialize in **Data Integrity** and **Automation**, leveraging my Excel certification to build robust data solutions.
+I’m currently an IT Intern at Workforce Alliance, where I’ve supported end users, managed Windows environments, worked with Microsoft 365, Intune, Entra ID, and contributed to infrastructure improvements and automation projects.
+
+I’m particularly interested in cybersecurity and networking, while continuing to develop my programming skills through hands-on projects and Code2College.
+
+I’m using GitHub to document my projects, strengthen my technical skills, and showcase what I’m learning as I work toward a career in IT and cybersecurity.
